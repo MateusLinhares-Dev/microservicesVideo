@@ -25,6 +25,9 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
+    "@opentelemetry/auto-instrumentations-node": "^0.60.0",
+    "@opentelemetry/sdk-node": "^0.202.0",
+    "@opentelemetry/sdk-trace-node": "^2.0.1",
     "@types/amqp": "^0.2.8",
     "@types/node": "^22.15.29",
     "drizzle-kit": "^0.31.1",
